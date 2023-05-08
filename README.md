@@ -1,7 +1,7 @@
 # TuxtlasApp
 Aplicacion iOS creado en swiftUI que muestra informacion relacionada a la region de los Tuxtlas como la cultura, gastronomia, municipios y lugares turisticos
 localizados en la zona perteneciente al estado de Veracruz, Mexico. 
-Para esta App se implemente varias ventanas donde maneje los contenedores HSTACK, VSTACK y ZSTACK para la elaboracion de la interfaz ademas de otros 
+Para esta App implemente varias ventanas donde maneje los contenedores HSTACK, VSTACK y ZSTACK para la elaboracion de la interfaz ademas de otros 
 componentes como scrollview para lograr un mejor uso de la app.
 
 
